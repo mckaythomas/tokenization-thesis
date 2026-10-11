@@ -1,2 +1,3 @@
 # tokenization-thesis
-The tokenization thesis: five reels compared and fact-checked
+
+The tokenization thesis: claims compared and fact-checked.
